@@ -1,0 +1,1 @@
+During this lab, I learned how to create and manage files using Git. I practiced committing changes and pushing them to a remote repository. I also gained experience working with branches to organize my work efficiently.
